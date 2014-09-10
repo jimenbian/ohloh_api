@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+   <title>蓟门边</title>
+   <link href="http://0.0.0.0:4000/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="http://0.0.0.0:4000" rel="alternate" type="text/html" />
+   <updated>2013-12-09T10:26:34+08:00</updated>
+   <id>http://0.0.0.0:4000</id>
+   <author>
+     <name>Garvin Li</name>
+     <email>zixiyaoren@gmail.com</email>
+   </author>
+
+   
+   <entry>
+     <title>【蓟门边studio】镖镖必达</title>
+     <link href="http://0.0.0.0:4000/android/2013/12/08/biaobiao.html"/>
+     <updated>2013-12-08T12:55:11Z</updated>
+     <id>http://0.0.0.0:4000/android/2013/12/08/biaobiao</id>
+     <content type="html">&lt;h4&gt;镖镖必达是一款基于android系统下开发的单指RPG游戏。通过点击屏幕使主人公发出飞镖，击中盗贼获得分数。更可以通过主菜单的人人图标将获得分数分享给圈中好友。&lt;/h4&gt;
+
+&lt;h4&gt;coding:Garvin Li&lt;/h4&gt;
+
+&lt;h4&gt;美术指导：shaojie WANG&lt;/h4&gt;
+
+&lt;h4&gt;（镖镖必达在人人开发大赛中暂列北京赛区第二十三名）&lt;a href=&quot;/download/Biaobiao.apk&quot;&gt;点击下载&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#39;/images/biaobiao2.png&#39; width=150 height=84 align=left/&gt; &lt;img src=&#39;/images/biaobiao1.png&#39; width=150 height=84 align=center/&gt; &lt;img src=&#39;/images/biaobiao.png&#39; width=150 height=84 align=right/&gt;&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>【蓟门边studio】Rhythm Maker</title>
+     <link href="http://0.0.0.0:4000/android/2013/09/28/RhythmMaker.html"/>
+     <updated>2013-09-28T12:55:11Z</updated>
+     <id>http://0.0.0.0:4000/android/2013/09/28/RhythmMaker</id>
+     <content type="html">&lt;h4&gt;RhythmMaker是一款基于Android系统的模拟工具类游戏。此游戏大量调用了重力感应传感器，就连基本的setting也是通过要摇晃手机来设置。使用时，通过摇晃手机到不同方向来产生不同的音效。而且提供了录音以及播放功能，可以实现边唱边rap的人机互动效果。&lt;/h4&gt;
+
+&lt;h4&gt;coding:Garvin Li&lt;/h4&gt;
+
+&lt;h4&gt;美术指导：shaojie WANG&lt;/h4&gt;
+
+&lt;h4&gt;（RhythmMaker在教育部主办的“中兴杯”android应用大赛中获得三等奖）&lt;a href=&quot;/download/RhythmMaker.apk&quot;&gt;点击下载&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#39;/images/rm1.jpg&#39; width=84 height=150 align=left/&gt; &lt;img src=&#39;/images/rm2.jpg&#39; width=84 height=150 align=center/&gt; &lt;img src=&#39;/images/rm.png&#39; width=99 height=150 align=right/&gt; &lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>【蓟门边studio】Anti Addiction</title>
+     <link href="http://0.0.0.0:4000/plugin/2013/07/08/AntiAddiction.html"/>
+     <updated>2013-07-08T12:55:11Z</updated>
+     <id>http://0.0.0.0:4000/plugin/2013/07/08/AntiAddiction</id>
+     <content type="html">&lt;h4&gt;Anti Addiction是一款基于eclipse3.5的插件。这款插件的主要功能是反沉迷，防止码农过分专注于coding而忘记时间。此插件将实现定时提醒功能。（使用方法：只要将下载好的jar文件放到eclipse的plugin文件夹下即可）&lt;/h4&gt;
+
+&lt;h4&gt;coding:Garvin Li&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href=&quot;/download/Anti_Addiciton.jar&quot;&gt;点击下载&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#39;/images/AA.png&#39; width=146 height=79 align=left/&gt; &lt;img src=&#39;/images/AA1.png&#39; width=400 height=112 align=center/&gt;&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>【蓟门边studio】TortoiseAlarm</title>
+     <link href="http://0.0.0.0:4000/android/2013/04/08/TortoiseAlarm.html"/>
+     <updated>2013-04-08T12:55:11Z</updated>
+     <id>http://0.0.0.0:4000/android/2013/04/08/TortoiseAlarm</id>
+     <content type="html">&lt;h4&gt;TortoiseAlarm是一款基于android系统下的闹铃工具软件。它可不是一般的闹铃哦。这款闹铃运用了传感器功能，在报时的时候只要将手机翻转即可，无需进行按键操作，非常方便&lt;/h4&gt;
+
+&lt;h4&gt;coding:Garvin Li&lt;/h4&gt;
+
+&lt;h4&gt;美术指导：shaojie WANG&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href=&quot;/download/TortoiseAlarm.apk&quot;&gt;点击下载&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#39;/images/ta.png&#39; width=100 height=150 align=left/&gt; &lt;img src=&#39;/images/ta1.png&#39; width=100 height=150 align=center/&gt;&lt;/p&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>【蓟门边studio】Mini U-net</title>
+     <link href="http://0.0.0.0:4000/c%23/2013/03/08/Mini-Unet.html"/>
+     <updated>2013-03-08T12:55:11Z</updated>
+     <id>http://0.0.0.0:4000/c%23/2013/03/08/Mini-Unet</id>
+     <content type="html">&lt;h4&gt;Mini U-net是一款使用c#编写的通信仿真平台。通过在界面地图上的操作，可以得出最佳小区以及路损等信息。此款软件有着良好的界面，以及与百度api的精确结合。&lt;/h4&gt;
+
+&lt;h4&gt;coding:Garvin Li&lt;/h4&gt;
+
+&lt;h4&gt;&lt;a href=&quot;/download/unet.apk&quot;&gt;点击下载&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&#39;/images/m1.png&#39; width=150 height=135 align=left/&gt; &lt;img src=&#39;/images/m2.png&#39; width=150 height=135 align=center/&gt; &lt;img src=&#39;/images/m3.png&#39; width=150 height=135 align=right/&gt; &lt;img src=&#39;/images/m4.png&#39; width=150 height=135 align=right/&gt;&lt;/p&gt;
+</content>
+   </entry>
+   
+
+</feed>
