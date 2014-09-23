@@ -1,0 +1,16 @@
+'''
+@author: Garvin
+'''
+def Find_LastReview():
+    
+     fr = open('/Users/hakuri/Desktop/test1.txt')
+     f=open('/Users/hakuri/Desktop/train_set.txt','w')
+     dic={}
+     
+     for line in fr.readlines():
+        # line.strip().split('\t')
+         dic.update(line.strip().split('\t')[0],line.strip().split('\t')[1])
+        
+     print dic    
+if __name__=='__main__':
+    Find_LastReview()

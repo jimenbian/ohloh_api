@@ -1,0 +1,22 @@
+def Get_keynews():
+    fr = open('/Users/hakuri/Desktop/keywords_5.txt')
+    fr1 = open('/Users/hakuri/Desktop/train_date_set1_5.txt')
+#     f1=open('/Users/hakuri/Desktop/keywords_5.txt','w')
+    list_key=[]
+    dic=[]
+    for line in fr.readlines():
+        print line
+        for i in range(0,10) :
+          list_key.append(line.strip().split('\t')[i])
+   
+    for m in list_key:
+        list_temple=[]
+        dic[m]=list_temple 
+    
+    for line in fr1.readlines():
+        for j in list:
+            if j in line.strip().split('\t')[3]:
+                dic[j].append(line.strip().split('\t')[2])
+    print dic
+
+Get_keynews()

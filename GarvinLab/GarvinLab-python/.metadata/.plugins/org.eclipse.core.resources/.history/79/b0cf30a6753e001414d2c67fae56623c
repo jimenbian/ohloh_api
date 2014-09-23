@@ -1,0 +1,10 @@
+def Find_Null():
+    fr = open('/Users/hakuri/Desktop/train_set.txt')
+    for line in fr.readlines():
+#         if cmp(line.strip().split('\t')[4],'null')==-1:
+            if line.strip().split('\t')[4]=='null':
+                
+              print line
+            
+            
+Find_Null()

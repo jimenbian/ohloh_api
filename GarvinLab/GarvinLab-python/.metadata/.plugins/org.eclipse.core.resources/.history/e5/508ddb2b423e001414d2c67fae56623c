@@ -1,0 +1,19 @@
+'''
+@author: Garvin
+'''
+import csv
+csvfile = file('/Users/hakuri/Desktop/csv_test.csv', 'rb')
+def Find_LastReview():
+    
+     fr = open('/Users/hakuri/Desktop/test1.txt')
+     f=open('/Users/hakuri/Desktop/train_set.txt','w')
+     dic={}
+     writer = csv.writer(csvfile)
+     for line in fr.readlines():
+        # line.strip().split('\t')
+         dic[line.strip().split('\t')[0]]=line.strip().split('\t')[1]
+         
+     for key in dic:
+         print key,dic[key]   
+if __name__=='__main__':
+    Find_LastReview()

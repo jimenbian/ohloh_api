@@ -1,0 +1,98 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hakuri/GarvinLab/GarvinLab-python/.metadata/.plugins/org.eclipse.core.resources/.projects/Ospaf/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+-- END DISKCACHE
+-- START DICTIONARY
+21
+9=DataManager.InsertData
+11=ML.sort.shell_sort
+20=ML.sort.merge_sort
+7=DataManager.ConnData
+18=ML.sort.insert_sort
+4=Matplotlib.DrawChart
+5=ML.sort.bubble_sort
+12=DataManager.ohloh_api.account_sample
+1=Section1_test
+19=ML.Sampling
+21=ML.sort.selection_sort
+6=FeatureManager.ContextDataManager.Test
+8=FeatureManager.DataManager
+16=DataManager.GetUrl
+17=DataManager.CreateTrainSet_test
+2=ML.LR
+3=ML.AutoNorm
+13=GL
+14=DataManager.GetFromData
+10=ML.Kmeans
+15=DataManager.GetRepoInfo
+-- END DICTIONARY
+-- START TREE 1
+63
+!<m|0|
+B1|0|
+B2|0|
+a|0|
+add|1|AddConstant!10@
+aut|3|autoNorm!18@AutoNorm!26@AutoNormData!10@
+b|0|
+bar|1|BarChart!34@
+bub|1|bubble_sort!42@
+com|1|commite!51@
+con|1|ConnData!58@
+dat|3|dataLable!11@dataMat!11@DataManager!66@
+den|1|DenoisMat!26@
+dic|1|dic!75@
+dis|2|distEclud!82@dist!91@
+ele|1|elem!99@
+ema|1|email!99@
+err|1|error!99@
+f|1|f!99@
+fea|1|features!107@
+get|16|GetAverage!26@GetDataURL!114@GetDataRepo1!114@GetNegativeRepoInfo!122@GetKeyWordFreq!50@GetUrl!130@GetResult!18@GetDataRepo!114@GetVar!26@GetPositiveTrainSet!138@GetRepoInfo!122@GetNegaTrainSet!138@GetProjectName!114@GetPreSet!10@GetUrlList!138@GetPositiveRepoInfo!122@
+gra|1|gradAscent!18@
+ins|2|insert_sort!146@InsertData!74@
+j|1|j!91@
+key|1|KeyWords!51@
+kme|1|kMeans!82@
+lab|1|labelMat!11@
+lb|0|
+lis|3|list1!75@list!91@list!11@
+loa|3|loadDataSet!18@loadDataSet!82@loadDataSet!154@
+lrm|3|LRMat2!11@LRMat!11@LRMat1!11@
+m|0|
+mat|0|
+max|0|
+mer|2|merger_sort!162@merger!162@
+min|0|
+mya|0|
+n|0|
+nam|1|name!11@
+nor|0|
+num|0|
+par|1|params!99@
+plo|2|plotBestFit!82@plotBestFit!18@
+pre|0|
+pro|0|
+ran|2|RandomSampling!154@randCent!82@
+rep|2|RepetitionRandomSampling!154@RepoTableName!107@
+sam|0|
+sec|0|
+sel|1|selection_sort!170@
+she|1|shell_sort!90@
+sig|1|sigmoid!18@
+str|0|
+sys|1|SystematicSampling!154@
+tes|0|
+tmp|1|tmp!91@
+top|0|
+tre|1|tree!99@
+url|2|UrlNum!107@url!99@
+val|0|
+wei|1|weight!11@
+wid|1|width!26@
+wor|1|WordCompare!50@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

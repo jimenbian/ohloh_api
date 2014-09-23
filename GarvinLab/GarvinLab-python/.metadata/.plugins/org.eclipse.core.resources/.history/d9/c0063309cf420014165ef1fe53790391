@@ -1,0 +1,16 @@
+import csv
+
+def Achieve_csv():
+    fr = open('/Users/hakuri/Desktop/result.txt')
+    csvf=open('/Users/hakuri/Desktop/test.csv','wb')
+    writer=csv.writer(csvf)
+    i=0
+    writer.writerow(['userid','newsid'])
+    
+    for line in fr.readlines():
+        if i<=50000:
+         writer.writerow([int(line.strip().split('\t')[0]),int(line.strip().split('\t')[1])])
+         i=i+1
+        else:
+            break
+Achieve_csv()        

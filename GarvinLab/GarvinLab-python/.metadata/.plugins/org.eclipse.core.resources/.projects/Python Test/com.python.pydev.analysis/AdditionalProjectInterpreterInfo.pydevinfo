@@ -1,0 +1,37 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hakuri/GarvinLab/GarvinLab-python/.metadata/.plugins/org.eclipse.core.resources/.projects/Python Test/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+xlibtest|0|/Users/hakuri/GarvinLab/GarvinLab-python/Python Test/src/xlibtest.py
+AutoNorm|0|/Users/hakuri/GarvinLab/GarvinLab-python/Python Test/src/AutoNorm.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=xlibtest
+1=AutoNorm
+-- END DICTIONARY
+-- START TREE 1
+19
+a|1|a!11@
+aut|1|AutoNorm!10@
+b|1|b!11@
+den|1|DenoisMat!10@
+dis|1|distance!11@
+get|2|GetAverage!10@GetVar!10@
+lis|1|ListMat!11@
+m|1|m!11@
+mat|1|mat!11@
+max|1|MaxNum!11@
+min|1|MinNum!11@
+n|1|n!11@
+nor|1|NormMat!11@
+num|1|num!11@
+sec|1|section!11@
+t11|1|t11!19@
+t12|1|t12!19@
+val|1|value!11@
+wid|1|width!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

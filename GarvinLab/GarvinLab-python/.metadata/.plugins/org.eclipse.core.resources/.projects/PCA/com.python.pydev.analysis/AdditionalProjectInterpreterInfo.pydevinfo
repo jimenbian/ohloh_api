@@ -1,0 +1,27 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hakuri/GarvinLab/GarvinLab-python/.metadata/.plugins/org.eclipse.core.resources/.projects/PCA/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+PCA|0|/Users/hakuri/GarvinLab/GarvinLab-python/PCA/src/PCA.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=PCA
+-- END DICTIONARY
+-- START TREE 1
+11
+ax|1|ax!11@
+dat|2|dataArr1!11@dataArr2!11@
+fig|1|fig!11@
+j|1|j!11@
+loa|1|loadDataSet!10@
+mat|1|mata!11@
+n|1|n!11@
+n1|1|n1!11@
+pca|1|pca!10@
+plo|1|plotBestFit!10@
+xco|3|xcord2!11@xcord3!11@xcord1!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

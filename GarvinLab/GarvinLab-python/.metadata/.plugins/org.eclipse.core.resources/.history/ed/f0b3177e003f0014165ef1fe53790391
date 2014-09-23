@@ -1,0 +1,6 @@
+def Date_Manage():
+     fr = open('/Users/hakuri/Desktop/train_set.txt')
+     f=open('/Users/hakuri/Desktop/train_set.txt','w')
+     for line in fr.readlines():
+         if "2014年03月" in line.strip().split('\t')[4]:
+             print line

@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hakuri/GarvinLab/GarvinLab-python/.metadata/.plugins/org.eclipse.core.resources/.projects/MySql Connect/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Main|0|/Users/hakuri/GarvinLab/GarvinLab-python/MySql Connect/src/Main.py
+account_sample|0|/Users/hakuri/GarvinLab/GarvinLab-python/MySql Connect/src/account_sample.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=Main
+1=account_sample
+-- END DICTIONARY
+-- START TREE 1
+8
+ele|1|elem!11@
+ema|1|email!11@
+err|1|error!11@
+f|1|f!11@
+par|1|params!11@
+tes|1|test!18@
+tre|1|tree!11@
+url|1|url!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

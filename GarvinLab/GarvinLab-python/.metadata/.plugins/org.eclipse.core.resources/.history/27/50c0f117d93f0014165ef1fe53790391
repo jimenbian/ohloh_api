@@ -1,0 +1,10 @@
+import jieba.analyse
+def Get_keywords():
+    fr = open('/Users/hakuri/Desktop/train_date_set1_16.txt')
+    txt='习近平看望政协少数民族界委员,习近平参加上海代表团审议政府工作报告,顾雏军到底冤不冤？,【专访李嘉诚之四】'
+#     for line in fr.readlines():
+#          txt=txt+line.strip().split('\t')[3]+','
+        
+    print jieba.analyse.extract_tags(txt,3)   
+    
+Get_keywords()     

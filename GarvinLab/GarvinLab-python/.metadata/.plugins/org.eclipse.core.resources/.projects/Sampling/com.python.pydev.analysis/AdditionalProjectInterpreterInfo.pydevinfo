@@ -1,0 +1,21 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hakuri/GarvinLab/GarvinLab-python/.metadata/.plugins/org.eclipse.core.resources/.projects/Sampling/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+Sampling|0|/Users/hakuri/GarvinLab/GarvinLab-python/Sampling/src/Sampling.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Sampling
+-- END DICTIONARY
+-- START TREE 1
+5
+loa|1|loadDataSet!10@
+ran|1|RandomSampling!10@
+rep|1|RepetitionRandomSampling!10@
+sam|1|sample!11@
+sys|1|SystematicSampling!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

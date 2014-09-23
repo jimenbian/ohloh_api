@@ -1,0 +1,14 @@
+'''
+@author: Garvin
+'''
+def TransforData():
+    
+     fr = open('/Users/hakuri/Desktop/train_data_set.txt')
+     f=open('/Users/hakuri/Desktop/train_set.txt','w')
+     for line in fr.readlines():
+        # line.strip().split('\t')
+         print line.strip().split('\t')[0][0]
+        
+        
+if __name__=='__main__':
+    TransforData()

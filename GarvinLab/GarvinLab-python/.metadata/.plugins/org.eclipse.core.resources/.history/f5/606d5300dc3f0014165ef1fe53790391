@@ -1,0 +1,13 @@
+def Get_keynews():
+    fr = open('/Users/hakuri/Desktop/keywords_5.txt')
+#     f1=open('/Users/hakuri/Desktop/keywords_5.txt','w')
+    list_key=[]
+    for line in fr.readlines():
+        print line
+#         for i in range(0,9) :
+#           list_key.append(line.strip().split('\t')[i])
+#     print list_key
+
+
+
+Get_keynews()

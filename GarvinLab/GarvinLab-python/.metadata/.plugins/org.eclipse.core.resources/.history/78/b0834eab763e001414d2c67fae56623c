@@ -1,0 +1,15 @@
+def Find_Null():
+    fr = open('/Users/hakuri/Desktop/train_set.txt')
+    for line in fr.readlines():
+#         if cmp(line.strip().split('\t')[4],'null')==-1:
+        dic={}
+        list=[]
+        if line.strip().split('\t')[4]=='NULL' and line.strip().split('\t')[3]!='404':
+                 list.append(line.strip().split('\t')[1])
+        myset = set(list)
+
+    for item in myset:
+        print list.count(item),"of",item,"in list"     
+            
+            
+Find_Null()

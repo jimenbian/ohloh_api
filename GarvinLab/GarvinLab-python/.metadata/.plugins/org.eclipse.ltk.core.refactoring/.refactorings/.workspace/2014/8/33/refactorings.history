@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Contest&apos; to &apos;Context&apos;" description="Rename resource &apos;Contest&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Contest" name="Context" stamp="1407915604886" updateReferences="true"/>
+</session>

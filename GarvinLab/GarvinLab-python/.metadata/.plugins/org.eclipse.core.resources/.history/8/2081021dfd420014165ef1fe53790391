@@ -1,0 +1,19 @@
+def Delete_Repeat():
+ 
+     f=open('/Users/hakuri/Desktop/test/result.txt')
+     f1=open('/Users/hakuri/Desktop/test/train_date_set1.txt')
+     dic={}
+     
+     for line in f1.readlines():
+         list=[]
+         dic[line.strip().split('\t')[0]]=list
+     for line1 in f1.readlines():
+          dic[line.strip().split('\t')[0]].append(line.strip().split('\t')[1])
+     
+     print dic
+
+
+
+          
+Delete_Repeat()         
+    

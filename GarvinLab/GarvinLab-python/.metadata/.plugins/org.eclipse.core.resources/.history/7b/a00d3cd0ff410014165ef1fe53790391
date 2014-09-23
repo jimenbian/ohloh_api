@@ -1,0 +1,10 @@
+import Get_day_data
+def main():
+    for i in range(1,3):
+        Get_day_data.TransforData(i)
+
+
+
+
+
+main()    

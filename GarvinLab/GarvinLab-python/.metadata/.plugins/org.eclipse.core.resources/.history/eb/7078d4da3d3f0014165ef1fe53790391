@@ -1,0 +1,14 @@
+from sets import Set
+def find_top(list,number):
+    top_list=[]
+    for j in range(0,number):
+       items = dict([(list.count(i), i) for i in list])
+       max_value=items[max(items.keys())]
+       top_list.append(max_value)
+
+
+if __name__=='__main__':
+    list=['a','b','a']
+    
+    print list(list(Set('a')))       
+    

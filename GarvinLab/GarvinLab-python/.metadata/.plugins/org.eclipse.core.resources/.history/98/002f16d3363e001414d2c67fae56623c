@@ -1,0 +1,11 @@
+'''
+@author: Garvin
+'''
+def TransforData():
+    
+     fr = open('/Users/hakuri/Desktop/test.txt')
+     for line in fr.readlines():
+         print line
+         
+if __name__=='__main__':
+    TransforData()

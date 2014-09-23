@@ -1,0 +1,33 @@
+-- VERSION_3
+-- START DISKCACHE
+/Users/hakuri/GarvinLab/GarvinLab-python/.metadata/.plugins/org.eclipse.core.resources/.projects/Sort/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+selection_sort|0|/Users/hakuri/GarvinLab/GarvinLab-python/Sort/src/selection_sort.py
+bubble_sort|0|/Users/hakuri/GarvinLab/GarvinLab-python/Sort/src/bubble_sort.py
+shell_sort|0|/Users/hakuri/GarvinLab/GarvinLab-python/Sort/src/shell_sort.py
+merge_sort|0|/Users/hakuri/GarvinLab/GarvinLab-python/Sort/src/merge_sort.py
+insert_sort|0|/Users/hakuri/GarvinLab/GarvinLab-python/Sort/src/insert_sort.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+5=selection_sort
+1=bubble_sort
+2=shell_sort
+4=merge_sort
+3=insert_sort
+-- END DICTIONARY
+-- START TREE 1
+9
+bub|1|bubble_sort!10@
+dis|1|dist!19@
+ins|1|insert_sort!26@
+j|1|j!19@
+lis|1|list!19@
+mer|2|merger!34@merger_sort!34@
+sel|1|selection_sort!42@
+she|1|shell_sort!18@
+tmp|1|tmp!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

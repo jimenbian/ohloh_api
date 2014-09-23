@@ -1,0 +1,15 @@
+def   list_to_dic():
+     fr = open('/Users/hakuri/Desktop/train_date_set.txt')
+     fr1 = open('/Users/hakuri/Desktop/train_date_set.txt')
+     f=open('/Users/hakuri/Desktop/test.txt','w')
+    
+     dic={}
+     for line in fr.readlines():
+        
+        list=[]
+        for line1 in fr1.readlines():
+            if line.strip().split('\t')[4]==line1.strip().split('\t')[4]:
+                list.append(line.strip().split('\t')[1])
+        dic[line]=list
+     print dic
+list_to_dic()

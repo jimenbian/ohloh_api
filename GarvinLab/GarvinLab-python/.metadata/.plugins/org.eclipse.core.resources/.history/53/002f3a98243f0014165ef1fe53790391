@@ -1,0 +1,24 @@
+def   list_to_dic():
+     fr = open('/Users/hakuri/Desktop/test2.txt')
+     
+     f=open('/Users/hakuri/Desktop/test.txt','w')
+     dat=[]
+     dat1=[]
+     dic={}
+     for i in fr.readlines():
+         dat.append(i)
+     dat1=dat
+     print dat1    
+     for line in dat:       
+        list=[]
+        for line1 in dat:
+            if line.strip().split('\t')[4]==line1.strip().split('\t')[4]:
+                list.append(line.strip().split('\t')[1])
+        print list    
+#         dic[line.strip().split('\t')[4]]=list
+#      for k, v in dic.iteritems():
+#         print k
+#         for m in v:
+#             print m  
+#         print '\n'    
+list_to_dic()

@@ -1,0 +1,10 @@
+import jieba.analyse
+def Get_keywords():
+    fr = open('/Users/hakuri/Desktop/train_date_set1_16.txt')
+    txt=''
+    for line in fr.readlines():
+         txt=txt+line.strip().split('\t')[3]+','
+           
+    print txt   
+    
+Get_keywords()     

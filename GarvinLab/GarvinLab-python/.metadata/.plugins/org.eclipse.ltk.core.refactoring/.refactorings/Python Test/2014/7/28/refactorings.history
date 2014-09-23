@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Python Test/src/Main.py&apos; to &apos;AutoNorm.py&apos;" description="Rename resource &apos;Main.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Main.py" name="AutoNorm.py" stamp="1404787069114" updateReferences="true"/>
+</session>

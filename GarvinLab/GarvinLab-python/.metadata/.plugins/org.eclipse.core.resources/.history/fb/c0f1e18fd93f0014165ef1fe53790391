@@ -1,0 +1,12 @@
+import jieba.analyse
+#!coding=utf-8
+def Get_keywords():
+    fr = open('/Users/hakuri/Desktop/train_date_set1_16.txt')
+    f1=open('/Users/hakuri/Desktop/null_v.txt','w')
+    txt='卧槽什么破玩意'
+#     for line in fr.readlines():
+#          txt=txt+line.strip().split('\t')[3]+','
+        
+    f1.write(jieba.analyse.extract_tags(txt,2))
+    
+Get_keywords()     

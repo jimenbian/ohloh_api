@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Test/src/ML/Test.py&apos; to &apos;Kmeans.py&apos;" description="Rename resource &apos;Test.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/ML/Test.py" name="Kmeans.py" stamp="1405577832483" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;Test/src/FeatureManager/DataManager.py&apos; to &apos;DateManager.py&apos;" description="Rename resource &apos;DataManager.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/FeatureManager/DataManager.py" name="DateManager.py" stamp="1405577952918" updateReferences="true"/>
+</session>

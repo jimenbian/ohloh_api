@@ -1,0 +1,24 @@
+def Find_Null():
+    fr = open('/Users/hakuri/Desktop/train_set.txt')
+    list=[]
+    dic={}
+    for line in fr.readlines():
+#         if cmp(line.strip().split('\t')[4],'null')==-1:
+       
+        
+        if line.strip().split('\t')[4]=='NULL' and line.strip().split('\t')[3]!='404':
+                 list.append(line.strip().split('\t')[1])
+                 print  line.strip().split('\t')[1]
+#     for i in list:
+#         dic[i]=1
+#     
+#     for j in list:
+#         for k in list:
+#              if j==k:
+#                 
+#              else:
+#                 dic[i]=dic[i]    
+    print list      
+    print dic      
+            
+Find_Null()

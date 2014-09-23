@@ -1,0 +1,16 @@
+'''
+@author: Garvin
+'''
+def TransforData():
+    
+     fr = open('/Users/hakuri/Desktop/train_date_set.txt')
+     f=open('/Users/hakuri/Desktop/train_date_set1.txt','w')
+     for line in fr.readlines():
+        # line.strip().split('\t')
+         if line.strip().split('\t')[4][0]==0:
+             line.strip().split('\t')[4]=line.strip().split('\t')[4][1]
+         f.write( line.strip().split('\t')[0]+'\t' +line.strip().split('\t')[1]+'\t' + line.strip().split('\t')[2] +'\t' +line.strip().split('\t')[3] +'\t' +line.strip().split('\t')[4]+'\n')     
+        
+        
+if __name__=='__main__':
+    TransforData()
